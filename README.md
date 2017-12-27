@@ -7,4 +7,4 @@ The first two projects in this respository are "A Simple Bootstrap Package" and 
 Comments, suggestions, and critics are welcome.
 
 # Author
-Made by Alex Carrasco, december 2017. Contac: alex.carmar93@gmail.com
+Made by Alex Carrasco, december 2017. Contact me: alex.carmar93@gmail.com
