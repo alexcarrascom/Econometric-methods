@@ -4,6 +4,8 @@ The main objective is to implement econometric methods using MATLAB and Python (
 
 The first two projects in this respository are "A Simple Bootstrap Package" and "SVAR". The first one contains bootstrap techniques to deal with both random sample and dependent data, while the later is mean to estimate local indetified structural VAR's using both short and long-run restrictions. I have documented every project (.pdf files) to show in an easy way how we can implement these methods.
 
+Read "SVAR.pdf", "A Simple Bootstrap Package.pdf", "Notes on Monte Carlo Simulation [Spanish].pdf", and "Notes on Econometrics [Spanish].pdf".
+
 Comments, suggestions, and critics are welcome.
 
 # Contributor
