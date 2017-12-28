@@ -1,6 +1,6 @@
 # SVAR package
 
-Reduced form estimation, structural estimation, and confidence intervals for the impulse response functions were all computing in 
+Read SVAR.pdf for a nice application: reduced form estimation, structural estimation, and confidence intervals for the impulse response functions were all computing in 
 MATLAB. Basically, I have created five script functions that can be used to a wide range of structural VAR models with short and 
 long-run identification restrictions:
 
@@ -14,8 +14,6 @@ long-run identification restrictions:
 6. uroottest.m: Simplifies the process of executing ADF and Phillips-Perron unit root test with different lag order for univariate 
                 time series, selecting the best model based on BIC statistic, and reporting results. Econometric Toolbox must be 
                 added to MATLAB search path.
-
-Read SVAR.pdf for a nice application.
 
 By Alex Carrasco/ alex.carmar93@gmail.com
 
